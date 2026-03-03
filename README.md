@@ -59,23 +59,22 @@ Strong attention to data quality, reproducibility, and clear communication of re
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-### 📊 Sales Analytics Dashboard
-Business sales dashboard with automated ETL pipeline  
-Tech: Python, SQL, Power BI  
+### 🛒 Instacart Data & Business Intelligence Case Study
 
----
+End-to-end business intelligence analysis of Instacart transactional data using Python (data cleaning) and Power BI (dashboard & KPI modeling).
 
-### 📈 Customer Churn Prediction
-Machine learning model to predict customer churn  
-Tech: Python, Scikit-Learn  
+🔎 Key Highlights:
+- 3M+ orders analyzed
+- 73% returning customer rate
+- KPI-driven executive dashboard
+- Customer & basket behavior analysis
 
----
-
-### ⚙️ Automated ETL Pipeline
-Automated data ingestion and cleaning pipeline  
-Tech: Python, SQL  
+📂 Repository:  
+👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence
 
 ---
 
