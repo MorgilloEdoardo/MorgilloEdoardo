@@ -50,7 +50,6 @@ End-to-end business intelligence analysis of Instacart transactional data using 
 📂 **Repository:**  
 👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
----
 
 ---
 
