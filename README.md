@@ -32,6 +32,25 @@ Strong attention to data quality, reproducibility, and clear communication of re
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛒 Instacart Data & Business Intelligence Case Study
+
+End-to-end business intelligence analysis of Instacart transactional data using Python (data cleaning) and Power BI (dashboard & KPI modeling).
+
+🔎 Key Highlights:
+- 3M+ orders analyzed
+- 73% returning customer rate
+- KPI-driven executive dashboard
+- Customer & basket behavior analysis
+
+📂 Repository:  
+👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence
+
+---
+
+---
+
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,25 +75,6 @@ Strong attention to data quality, reproducibility, and clear communication of re
 ### 🗄 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Instacart Data & Business Intelligence Case Study
-
-End-to-end business intelligence analysis of Instacart transactional data using Python (data cleaning) and Power BI (dashboard & KPI modeling).
-
-🔎 Key Highlights:
-- 3M+ orders analyzed
-- 73% returning customer rate
-- KPI-driven executive dashboard
-- Customer & basket behavior analysis
-
-📂 Repository:  
-👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence
 
 ---
 
