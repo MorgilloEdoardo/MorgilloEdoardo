@@ -1,7 +1,6 @@
-Hi 👋, I'm Edoardo
---
+# Hi 👋, I'm Edoardo
 
-Data Analyst | Turning Data into Business Insights</h3>
+### Data Analyst | Turning Data into Business Insights
 
 ---
 
@@ -87,7 +86,7 @@ Tech: Python, SQL
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=tokyonight)
 
 
 
