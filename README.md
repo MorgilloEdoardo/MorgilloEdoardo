@@ -1,16 +1,16 @@
-<h1 align="center">Data Analyst</h1>
+<h1 align="center">Turning Data into Business Value</h1>
 
 <p align="center">
-  <b>Edoardo Morgillo</b>
+  <b>Edoardo Morgillo • Data Analyst</b>
 </p>
 
 <p align="center">
-  I turn raw data into business insights, dashboards and decisions
+  Data Cleaning • Business Intelligence • Dashboard Development
 </p>
 
 <p align="center">
   <a href="https://edoardo-data-analyst.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Explore%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 ---
