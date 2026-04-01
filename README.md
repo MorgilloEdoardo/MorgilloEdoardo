@@ -21,7 +21,7 @@
 <p align="center">
   🚀 Explore my projects, dashboards and case studies  
   <br><br>
-  <b>👉 https://INSERISCI-QUI-LINK-PORTFOLIO</b>
+  <b>👉 https://edoardo-data-analyst.netlify.app/</b>
 </p>
 
 ---
