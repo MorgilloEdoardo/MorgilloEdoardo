@@ -18,6 +18,10 @@
 ## 🌐 Portfolio  
 
 <p align="center">
+  🚀 Explore my portfolio, dashboards and case studies  
+</p>
+
+<p align="center">
   <a href="https://edoardo-data-analyst.netlify.app/">
     <img src="https://img.shields.io/badge/View%20Portfolio-Edoardo%20Morgillo-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
