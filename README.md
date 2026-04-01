@@ -1,12 +1,16 @@
-# Hi 👋, I'm Edoardo Morgillo  
-### Data Analyst | Turning Data into Business Insights  
+# 👋 Hi, I'm Edoardo Morgillo  
+
+<h3 align="center">Data Analyst | Turning Data into Business Insights</h3>
 
 <p align="center">
   <a href="https://github.com/MorgilloEdoardo">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-121013?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/edoardo-morgillo">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:edoardomorgillo@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -14,45 +18,42 @@
 
 ## 🌐 Portfolio  
 
-🚀 Explore my portfolio to see my projects, dashboards, and case studies:
-
-👉 **(https://edoardo-data-analyst.netlify.app/)**
+<p align="center">
+  🚀 Explore my work, dashboards and case studies  
+  <br><br>
+  👉 <b>https://INSERISCI-QUI-LINK-PORTFOLIO</b>
+</p>
 
 ---
 
 ## 🧠 About Me  
 
-📊 Data Analyst focused on transforming raw data into actionable insights and business intelligence solutions  
+📊 Data Analyst focused on transforming raw data into actionable insights  
 
-📈 Passionate about Business Intelligence, Financial Analysis, and Data-Driven Decision Making  
+🧹 Strong focus on **data cleaning & data preparation**  
 
-🧹 Strong focus on **data cleaning and data preparation** as the foundation of reliable analysis  
+📈 Passionate about **Business Intelligence & Financial Analysis**  
 
-⚡ I transform complex datasets into clear insights through dashboards, analytical models, and data storytelling  
+⚡ I turn complex datasets into clear insights through dashboards and storytelling  
 
-🎯 My goal is to combine **technical skills with business thinking** to drive strategic decisions  
+🎯 Goal: combine **data skills + business thinking** to drive decisions  
 
 ---
 
 ## 🎯 Career Goals  
 
-I am pursuing a career as a **Business Analyst / Data Analyst**, focused on leveraging data to improve performance and support strategic decisions.
+I aim to grow as a **Business Analyst / Data Analyst**, delivering real business value through data.
 
-I am particularly interested in roles that combine:
-- Data Analysis  
-- Business Intelligence  
-- Financial Insight  
-
-🌍 **Work Preference:** Remote-first environment, open to relocation  
+🌍 Remote-first | Open to relocation  
 
 ---
 
 ## ⚡ Working Approach  
 
-- Focus on **business impact and decision-making**
-- Strong attention to **data quality and reproducibility**
-- Ability to communicate insights to **technical and non-technical stakeholders**
-- Emphasis on **clear storytelling and dashboard usability**
+- 🎯 Business-driven mindset  
+- 📊 Data quality & reproducibility  
+- 🧠 Clear communication of insights  
+- 📈 Focus on dashboards & usability  
 
 ---
 
@@ -60,77 +61,76 @@ I am particularly interested in roles that combine:
 
 ---
 
-## 🛒 Instacart Data & Business Intelligence Analysis  
+## 🛒 Instacart BI Analysis  
 
-End-to-end BI project using **Python, SQL, and Power BI**.
+📊 End-to-end project using **Python, SQL, Power BI**
 
-🔎 **Key Insights**
+✨ Highlights  
 - 3M+ orders analyzed  
 - 73% returning customers  
-- Customer behavior segmentation  
-- Basket & purchase pattern analysis  
+- Customer & basket analysis  
+- Executive dashboard  
 
-📂 **Repository**  
-👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
+🔗 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
 ---
 
-## 💳 Financial Transactions BI Dashboard  
+## 💳 Financial Transactions Dashboard  
 
-Business Intelligence project focused on financial performance and behavior analysis.
+📊 Business Intelligence project with **Power BI**
 
-🔎 **Key Insights**
+✨ Highlights  
 - Revenue & expense analysis  
-- Customer transaction patterns  
-- Product performance insights  
-- Interactive dashboard with multiple views  
+- Customer behavior insights  
+- Product performance  
+- Interactive dashboard  
 
-📂 **Repository**  
-👉 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
+🔗 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
 
 ---
 
+## 🧠 SQL Project (Coming Soon)  
+
+Advanced SQL analysis & business queries  
+
+---
 
 # 🛠 Tech Stack  
 
 ## 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+</p>
 
 ---
 
 ## 📊 Data Analysis  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pandas" height="40"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="40"/>
+<img src="https://skillicons.dev/icons?i=excel" height="40"/>
+</p>
 
 ---
 
 ## 📈 BI & Visualization  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Looker Studio](https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
+<img src="https://skillicons.dev/icons?i=matplotlib" height="40"/>
+</p>
 
 ---
 
 ## 🗄 Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
+</p>
 
 ---
 
-# 📫 Connect With Me  
-
-💼 LinkedIn  
-👉 https://www.linkedin.com/in/edoardo-morgillo  
-
-📧 Email  
-👉 edoardomorgillo@icloud.com  
-
----
-
-# 📈 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=tokyonight"/>
