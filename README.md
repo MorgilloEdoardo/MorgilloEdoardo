@@ -1,22 +1,18 @@
-<h1 align="center">Edoardo Morgillo</h1>
+<h1 align="center">Data Analyst</h1>
 
 <p align="center">
-  <b>Data Analyst • Business Intelligence • Data Cleaning</b>
+  <b>Edoardo Morgillo</b>
 </p>
 
 <p align="center">
-  Turning data into actionable business insights
+  I turn raw data into business insights, dashboards and decisions
 </p>
 
 <p align="center">
   <a href="https://edoardo-data-analyst.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/edoardo-morgillo">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 🧠 About Me  
