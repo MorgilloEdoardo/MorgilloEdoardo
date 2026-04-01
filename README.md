@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/MorgilloEdoardo">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/edoardo-morgillo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:edoardomorgillo@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -19,30 +19,26 @@
 ## 🌐 Portfolio  
 
 <p align="center">
-  🚀 Explore my work, dashboards and case studies  
+  🚀 Explore my projects, dashboards and case studies  
   <br><br>
-  👉 <b>https://INSERISCI-QUI-LINK-PORTFOLIO</b>
+  <b>👉 https://INSERISCI-QUI-LINK-PORTFOLIO</b>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-📊 Data Analyst focused on transforming raw data into actionable insights  
+Data Analyst focused on transforming raw data into actionable insights and business intelligence solutions.  
 
-🧹 Strong focus on **data cleaning & data preparation**  
+Strong focus on **data cleaning, data preparation, and dashboard development**, with attention to data quality and reproducibility.  
 
-📈 Passionate about **Business Intelligence & Financial Analysis**  
-
-⚡ I turn complex datasets into clear insights through dashboards and storytelling  
-
-🎯 Goal: combine **data skills + business thinking** to drive decisions  
+I combine **technical skills with business thinking** to support strategic decision-making and improve performance.  
 
 ---
 
 ## 🎯 Career Goals  
 
-I aim to grow as a **Business Analyst / Data Analyst**, delivering real business value through data.
+I am pursuing a career as a **Business Analyst / Data Analyst**, focused on delivering measurable business value through data-driven strategies.  
 
 🌍 Remote-first | Open to relocation  
 
@@ -50,10 +46,10 @@ I aim to grow as a **Business Analyst / Data Analyst**, delivering real business
 
 ## ⚡ Working Approach  
 
-- 🎯 Business-driven mindset  
-- 📊 Data quality & reproducibility  
-- 🧠 Clear communication of insights  
-- 📈 Focus on dashboards & usability  
+- Business-driven mindset  
+- Focus on data quality & reproducibility  
+- Clear communication of insights  
+- Dashboard usability & storytelling  
 
 ---
 
@@ -61,14 +57,14 @@ I aim to grow as a **Business Analyst / Data Analyst**, delivering real business
 
 ---
 
-## 🛒 Instacart BI Analysis  
+## 🛒 Instacart Data & BI Analysis  
 
-📊 End-to-end project using **Python, SQL, Power BI**
+End-to-end project developed using **Python, SQL, and Power BI**  
 
-✨ Highlights  
+**Highlights**
 - 3M+ orders analyzed  
 - 73% returning customers  
-- Customer & basket analysis  
+- Customer behavior & basket analysis  
 - Executive dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
@@ -77,56 +73,60 @@ I aim to grow as a **Business Analyst / Data Analyst**, delivering real business
 
 ## 💳 Financial Transactions Dashboard  
 
-📊 Business Intelligence project with **Power BI**
+Business Intelligence project focused on financial and behavioral analysis  
 
-✨ Highlights  
+**Highlights**
 - Revenue & expense analysis  
-- Customer behavior insights  
-- Product performance  
+- Customer transaction patterns  
+- Product performance insights  
 - Interactive dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
 
 ---
 
-## 🧠 SQL Project (Coming Soon)  
+## 🧠 SQL Analytics Project (Coming Soon)  
 
-Advanced SQL analysis & business queries  
+Focused on advanced SQL queries and business insights  
 
 ---
 
 # 🛠 Tech Stack  
 
-## 👨‍💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-</p>
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 Data Analysis  
-<p>
-<img src="https://skillicons.dev/icons?i=pandas" height="40"/>
-<img src="https://skillicons.dev/icons?i=numpy" height="40"/>
-<img src="https://skillicons.dev/icons?i=excel" height="40"/>
-</p>
+### 📊 Data Analysis  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📈 BI & Visualization  
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" height="40"/>
-</p>
+### 📈 BI & Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
 
 ---
 
-## 🗄 Databases  
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
-</p>
+### 🗄 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📫 Connect With Me  
+
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/edoardo-morgillo  
+
+📧 Email  
+👉 edoardomorgillo@icloud.com  
 
 ---
 
