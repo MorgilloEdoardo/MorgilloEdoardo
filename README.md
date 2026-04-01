@@ -3,27 +3,14 @@
 <h3 align="center">Data Analyst | Turning Data into Business Insights</h3>
 
 <p align="center">
+  <a href="https://edoardo-data-analyst.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/MorgilloEdoardo">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/edoardo-morgillo">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:edoardomorgillo@icloud.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-## 🌐 Portfolio  
-
-<p align="center">
-  🚀 Explore my portfolio, dashboards and case studies  
-</p>
-
-<p align="center">
-  <a href="https://edoardo-data-analyst.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Edoardo%20Morgillo-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -31,28 +18,41 @@
 
 ## 🧠 About Me  
 
-Data Analyst focused on transforming raw data into actionable insights and business intelligence solutions.  
+I am a Data Analyst focused on transforming raw data into **clear, actionable business insights**.
 
-Strong focus on **data cleaning, data preparation, and dashboard development**, with attention to data quality and reproducibility.  
+I specialize in:
+- 🧹 Data Cleaning & Preparation  
+- 📊 Business Intelligence & Dashboard Development  
+- 📈 Financial & Performance Analysis  
 
-I combine **technical skills with business thinking** to support strategic decision-making and improve performance.  
-
----
-
-## 🎯 Career Goals  
-
-I am pursuing a career as a **Business Analyst / Data Analyst**, focused on delivering measurable business value through data-driven strategies.  
-
-🌍 Remote-first | Open to relocation  
+I enjoy working on projects where data is used to **support decisions, optimize processes, and generate measurable business value**.
 
 ---
 
 ## ⚡ Working Approach  
 
-- Business-driven mindset  
-- Focus on data quality & reproducibility  
-- Clear communication of insights  
-- Dashboard usability & storytelling  
+- 🎯 Business-driven mindset  
+- 📊 Strong focus on data quality & reproducibility  
+- 🧠 Clear communication for technical & non-technical stakeholders  
+- 📈 Emphasis on storytelling and dashboard usability  
+
+---
+
+## 🌐 Portfolio  
+
+<p align="center">
+  <b>Explore my work, dashboards and data projects</b>
+</p>
+
+<p align="center">
+  <a href="https://edoardo-data-analyst.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Interactive dashboards • Business insights • End-to-end analytics projects</sub>
+</p>
 
 ---
 
@@ -60,27 +60,27 @@ I am pursuing a career as a **Business Analyst / Data Analyst**, focused on deli
 
 ---
 
-## 🛒 Instacart Data & BI Analysis  
+## 🛒 Instacart Data & Business Intelligence Analysis  
 
-End-to-end project developed using **Python, SQL, and Power BI**  
+End-to-end project using **Python, SQL, and Power BI**
 
-**Highlights**
+**Key Insights**
 - 3M+ orders analyzed  
 - 73% returning customers  
 - Customer behavior & basket analysis  
-- Executive dashboard  
+- Executive KPI dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
 ---
 
-## 💳 Financial Transactions Dashboard  
+## 💳 Financial Transactions Business Intelligence Dashboard  
 
-Business Intelligence project focused on financial and behavioral analysis  
+Business Intelligence project focused on financial performance and behavior analysis  
 
-**Highlights**
+**Key Insights**
 - Revenue & expense analysis  
-- Customer transaction patterns  
+- Customer transaction behavior  
 - Product performance insights  
 - Interactive dashboard  
 
@@ -90,7 +90,10 @@ Business Intelligence project focused on financial and behavioral analysis
 
 ## 🧠 SQL Analytics Project (Coming Soon)  
 
-Focused on advanced SQL queries and business insights  
+Advanced SQL project focused on:
+- Complex queries  
+- Subqueries & aggregations  
+- Business-driven insights  
 
 ---
 
@@ -138,7 +141,6 @@ Focused on advanced SQL queries and business insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=tokyonight"/>
 </p>
-
 
 
 
