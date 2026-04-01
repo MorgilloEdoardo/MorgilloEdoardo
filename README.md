@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/View%20Portfolio-Edoardo%20Morgillo-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 🧠 About Me  
