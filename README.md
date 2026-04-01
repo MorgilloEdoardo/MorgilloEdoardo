@@ -1,40 +1,58 @@
-# Hi 👋, I'm Edoardo  
+# Hi 👋, I'm Edoardo Morgillo  
 ### Data Analyst | Turning Data into Business Insights  
+
+<p align="center">
+  <a href="https://github.com/MorgilloEdoardo">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/edoardo-morgillo">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio  
+
+🚀 Explore my portfolio to see my projects, dashboards, and case studies:
+
+👉 **(https://edoardo-data-analyst.netlify.app/)**
 
 ---
 
 ## 🧠 About Me  
 
-📊 Data Analyst focused on transforming raw data into actionable business insights and business intelligence solutions.
+📊 Data Analyst focused on transforming raw data into actionable insights and business intelligence solutions  
 
-📈 Passionate about Business Intelligence, Financial Analysis, and Data-Driven Decision Making.
+📈 Passionate about Business Intelligence, Financial Analysis, and Data-Driven Decision Making  
 
-⚡ I enjoy transforming complex datasets into clear insights through interactive dashboards, analytical models, and data storytelling.
+🧹 Strong focus on **data cleaning and data preparation** as the foundation of reliable analysis  
 
-My goal is to combine **technical data skills with business thinking** to support strategic decisions and improve organizational performance.
+⚡ I transform complex datasets into clear insights through dashboards, analytical models, and data storytelling  
+
+🎯 My goal is to combine **technical skills with business thinking** to drive strategic decisions  
 
 ---
 
 ## 🎯 Career Goals  
 
-I am pursuing a career as a **Business Analyst / Data Analyst**, focused on leveraging data to drive strategic business decisions and improve organizational performance.
+I am pursuing a career as a **Business Analyst / Data Analyst**, focused on leveraging data to improve performance and support strategic decisions.
 
-I am particularly interested in roles that combine **data analysis, business intelligence, and financial insight**, with a strong emphasis on delivering measurable business value through data-driven strategies.
+I am particularly interested in roles that combine:
+- Data Analysis  
+- Business Intelligence  
+- Financial Insight  
 
-🌍 **Work Preference:** Remote-first environment, open to relocation for high-impact opportunities.
+🌍 **Work Preference:** Remote-first environment, open to relocation  
 
-### 📊 Key Interest Areas  
+---
 
-- Business Intelligence & Dashboard Development  
-- Financial & Performance Analysis  
-- Data-Driven Decision Making  
-- Business Process Optimization  
+## ⚡ Working Approach  
 
-### ⚡ Working Approach  
-
-I focus on transforming complex datasets into clear, actionable insights, combining technical analysis with business-oriented thinking.
-
-Strong attention to **data quality, reproducibility, and clear communication of insights** for both technical and non-technical stakeholders.
+- Focus on **business impact and decision-making**
+- Strong attention to **data quality and reproducibility**
+- Ability to communicate insights to **technical and non-technical stakeholders**
+- Emphasis on **clear storytelling and dashboard usability**
 
 ---
 
@@ -44,59 +62,51 @@ Strong attention to **data quality, reproducibility, and clear communication of 
 
 ## 🛒 Instacart Data & Business Intelligence Analysis  
 
-End-to-end business intelligence analysis of Instacart transactional data using **Python for data cleaning** and **Power BI for dashboard development and KPI modeling**.
+End-to-end BI project using **Python, SQL, and Power BI**.
 
-🔎 **Key Highlights**
-
+🔎 **Key Insights**
 - 3M+ orders analyzed  
-- 73% returning customer rate  
-- Executive KPI dashboard  
-- Customer behavior analysis  
-- Basket and purchasing pattern analysis  
+- 73% returning customers  
+- Customer behavior segmentation  
+- Basket & purchase pattern analysis  
 
 📂 **Repository**  
 👉 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
 ---
 
-## 💳 Financial Transactions Business Intelligence Dashboard  
+## 💳 Financial Transactions BI Dashboard  
 
-Business intelligence analysis of financial transaction data focused on **customer behavior, product performance, and financial account activity**.
+Business Intelligence project focused on financial performance and behavior analysis.
 
-The project includes an interactive **Power BI dashboard built on a star schema data model** to analyze financial performance and operational trends.
-
-🔎 **Key Highlights**
-
-- Financial performance analysis (income, expenses, balance)  
-- Customer transaction behavior analysis  
-- Product performance evaluation  
-- Account activity monitoring  
-- Interactive BI dashboard with multiple analytical views  
+🔎 **Key Insights**
+- Revenue & expense analysis  
+- Customer transaction patterns  
+- Product performance insights  
+- Interactive dashboard with multiple views  
 
 📂 **Repository**  
 👉 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
 
 ---
 
-# 🛠 Technical Skills  
+
+# 🛠 Tech Stack  
 
 ## 👨‍💻 Languages  
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 Data Analysis  
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📈 Data Visualization & BI  
-
+## 📈 BI & Visualization  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Looker Studio](https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
@@ -104,8 +114,7 @@ The project includes an interactive **Power BI dashboard built on a star schema 
 
 ---
 
-## 🗄 Database  
-
+## 🗄 Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
@@ -114,16 +123,18 @@ The project includes an interactive **Power BI dashboard built on a star schema 
 # 📫 Connect With Me  
 
 💼 LinkedIn  
-https://www.linkedin.com/in/edoardo-morgillo  
+👉 https://www.linkedin.com/in/edoardo-morgillo  
 
 📧 Email  
-edoardomorgillo@icloud.com  
+👉 edoardomorgillo@icloud.com  
 
 ---
 
 # 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=tokyonight"/>
+</p>
 
 
 
