@@ -92,12 +92,18 @@ Business Intelligence project focused on analyzing financial transactions, custo
 
 ---
 
-## SQL Analytics Project
+## Movie Analytics Business Intelligence Dashboard
 
-Portfolio project focused on **SQL querying, aggregations, subqueries, and business-driven analysis**.
+End-to-end data analysis project focused on the movie industry, developed using **Python, SQL, and Power BI** to analyze revenue performance, genre trends, and cast & crew impact.
 
-**Status**  
-Coming soon
+**Highlights**
+- Revenue concentration analysis (Pareto distribution)  
+- Budget vs revenue performance evaluation  
+- Genre and audience insights  
+- Cast & crew impact on box office success  
+- Multi-page interactive BI dashboard with business storytelling  
+
+[View Repository](https://github.com/MorgilloEdoardo/movie-analytics-business-intelligence)
 
 ---
 
