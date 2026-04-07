@@ -64,14 +64,15 @@ I am particularly interested in projects where data can generate **measurable bu
 
 ## Instacart Data & Business Intelligence Analysis
 
-End-to-end analytics project developed using **Python, SQL, and Power BI** to analyze transactional data, customer behavior, and purchasing patterns.
+End-to-end analytics project designed to uncover customer purchasing behavior, product performance, and revenue dynamics within a large-scale e-commerce dataset.
 
-**Highlights**
-- 3M+ orders analyzed  
-- 73% returning customers  
-- Executive KPI dashboard  
-- Customer behavior analysis  
-- Basket and purchasing pattern analysis  
+The analysis focuses on identifying patterns in customer retention, basket composition, and product demand to support data-driven commercial strategies.
+
+**Key Outcomes**
+- Identified strong customer retention dynamics (73% returning customers)  
+- Highlighted revenue concentration across specific product categories  
+- Uncovered purchasing patterns to support cross-selling and basket optimization  
+- Developed an executive dashboard for performance monitoring and strategic insights  
 
 [View Repository](https://github.com/MorgilloEdoardo/instacart-business-intelligence)
 
@@ -79,14 +80,15 @@ End-to-end analytics project developed using **Python, SQL, and Power BI** to an
 
 ## Financial Transactions Business Intelligence Dashboard
 
-Business Intelligence project focused on analyzing financial transactions, customer behavior, product performance, and account activity through an interactive dashboard.
+Business Intelligence project focused on analyzing financial transaction data to evaluate performance, customer behavior, and operational efficiency.
 
-**Highlights**
-- Revenue and expense analysis  
-- Customer transaction behavior insights  
-- Product performance evaluation  
-- Account activity monitoring  
-- Multi-page interactive BI dashboard  
+The project aims to support financial decision-making by providing a clear view of revenue flows, expense distribution, and transaction patterns.
+
+**Key Outcomes**
+- Analyzed revenue and expense dynamics to identify profitability drivers  
+- Evaluated customer transaction behavior across different channels  
+- Identified product performance trends and optimization opportunities  
+- Built a multi-page dashboard for monitoring financial performance and risk  
 
 [View Repository](https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence)
 
@@ -94,14 +96,16 @@ Business Intelligence project focused on analyzing financial transactions, custo
 
 ## Movie Analytics Business Intelligence Dashboard
 
-End-to-end data analysis project focused on the movie industry, developed using **Python, SQL, and Power BI** to analyze revenue performance, genre trends, and cast & crew impact.
+Data analysis project focused on the movie industry, aimed at understanding revenue distribution, genre performance, and the impact of cast & crew on financial success.
 
-**Highlights**
-- Revenue concentration analysis (Pareto distribution)  
-- Budget vs revenue performance evaluation  
-- Genre and audience insights  
-- Cast & crew impact on box office success  
-- Multi-page interactive BI dashboard with business storytelling  
+The project provides insights into industry dynamics, supporting strategic decisions in budget allocation and content investment.
+
+**Key Outcomes**
+- Identified strong revenue concentration driven by a limited number of blockbuster movies  
+- Evaluated the relationship between budget and financial performance, highlighting risk variability  
+- Analyzed genre performance to support investment prioritization  
+- Assessed the impact of key actors and directors on box office results  
+- Developed an interactive dashboard to support business-oriented storytelling  
 
 [View Repository](https://github.com/MorgilloEdoardo/movie-analytics-business-intelligence)
 
