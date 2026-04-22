@@ -94,6 +94,23 @@ The project aims to support financial decision-making by providing a clear view 
 
 ---
 
+## Customer Churn Business Analysis
+
+End-to-end Business Intelligence project focused on understanding customer churn behavior and its financial impact.
+
+The analysis combines customer segmentation, churn drivers identification, and revenue impact evaluation to support data-driven retention strategies.
+
+**Key Outcomes**
+- Identified high-risk customer segments with significantly higher churn rates  
+- Highlighted the main drivers of churn, including contract type, pricing, and service features  
+- Quantified the financial impact of churn, showing that high-value customers generate the largest revenue loss  
+- Developed a multi-page dashboard covering churn monitoring, risk profiling, drivers analysis, and business impact  
+- Identified retention opportunities with measurable potential revenue recovery  
+
+[View Repository](https://github.com/MorgilloEdoardo/customer-churn-business-analysis)
+
+---
+
 ## Movie Analytics Business Intelligence Dashboard
 
 Data analysis project focused on the movie industry, aimed at understanding revenue distribution, genre performance, and the impact of cast & crew on financial success.
