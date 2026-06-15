@@ -4,13 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,50:111827,100:1F2937&text=Edoardo%20Morgillo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python%20|%20Microsoft%20Certified%20DP-900&descAlignY=58" />
 </p>
 
-<h3 align="center">
-Transforming Data into Business Decisions
-</h3>
+<p align="center">
+  <b>Transforming Data into Business Decisions</b>
+</p>
 
 <p align="center">
   <a href="https://edoardo-data-analyst.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/edoardo-morgillo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,16 +24,16 @@ Transforming Data into Business Decisions
 
 # About Me
 
-I'm a Data Analyst focused on turning raw data into clear, actionable business insights that support decision-making and drive measurable value.
+Data Analyst focused on transforming raw data into clear, actionable business insights.
 
-I work across:
+I specialize in:
 
-- Data Analysis  
-- Business Intelligence  
-- Dashboard Development  
-- Data Cleaning & Preparation  
-- KPI Monitoring  
-- Data Storytelling  
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Cleaning & Preparation
+- KPI Monitoring
+- Data Storytelling
 
 ---
 
@@ -47,42 +47,45 @@ I work across:
   </a>
 </p>
 
-**Verify credential:**  
-https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305B03C0DF05082F?sharingId=A9455AE5C400868F
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305B03C0DF05082F?sharingId=A9455AE5C400868F">
+    🔗 Verify Microsoft Credential
+  </a>
+</p>
 
 ---
 
 # Current Learning Path
 
-- ✅ Microsoft Azure Data Fundamentals (DP-900)
-- 🔄 Advanced Power BI & DAX
-- 🔄 PL-300: Power BI Data Analyst Associate
-- 🎯 Azure Analytics Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/DP--900-Completed-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/PL--300-In%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-Analytics%20Path-1E3A8A?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
 ---
 
 # Core Competencies
 
-- Data Analysis  
-- Business Intelligence  
-- Dashboard Development  
-- Data Cleaning  
-- Exploratory Data Analysis  
-- Data Visualization  
-- KPI Tracking  
-- Business Reporting  
-- Customer Analytics  
-- Data Storytelling  
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1F2937?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dashboards-0B0F19?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-374151?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Visualization-1E3A8A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/KPI%20Tracking-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Storytelling-0F172A?style=for-the-badge">
+</p>
 
 ---
 
 # Featured Projects
 
 ## Customer Churn Analysis
-
-- Customer segmentation  
+- Segmentation of high-risk customers  
 - Churn driver analysis  
-- Revenue impact evaluation  
+- Revenue loss quantification  
 - Power BI dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/customer-churn-business-analysis  
@@ -90,33 +93,30 @@ https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305
 ---
 
 ## Instacart BI Analysis
-
 - Customer behavior analysis  
 - Basket analysis  
-- Product performance  
-- Revenue insights  
+- Product performance insights  
+- Revenue concentration study  
 
 🔗 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
 ---
 
 ## Financial Transactions Dashboard
-
-- Revenue analysis  
-- Expense tracking  
-- Profitability insights  
-- KPI dashboard  
+- Revenue & expense analysis  
+- Profitability tracking  
+- Customer transaction behavior  
+- KPI monitoring dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
 
 ---
 
 ## Movie Analytics Dashboard
-
 - Budget vs revenue analysis  
 - Genre performance  
-- Cast impact  
-- Interactive BI dashboard  
+- Cast & director impact  
+- Interactive dashboard  
 
 🔗 https://github.com/MorgilloEdoardo/movie-analytics-business-intelligence  
 
@@ -125,30 +125,42 @@ https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305
 # Tech Stack
 
 ## Languages
-- SQL  
-- Python  
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
 ## Data Analysis
-- Pandas  
-- NumPy  
-- Excel  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-0B3D2E?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
 
-## BI Tools
-- Power BI  
-- Looker Studio  
+## Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Looker%20Studio-1A73E8?style=for-the-badge&logo=googleanalytics&logoColor=white">
+</p>
 
 ## Databases
-- PostgreSQL  
-- MySQL  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 ## Cloud
-- Microsoft Azure  
-- Azure Data Fundamentals (DP-900)  
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
 ## Tools
-- Git  
-- GitHub  
-- Netlify  
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7">
+</p>
 
 ---
 
@@ -176,7 +188,7 @@ https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305
 </p>
 
 <p>
-  <a href="mailto:edoardomorgillo00@outlook.it">
+  <a href="mailto:edoardomorgillo@icloud.com">
     <img src="https://img.shields.io/badge/Email-edoardomorgillo%40icloud.com-111827?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -184,9 +196,5 @@ https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305
 ---
 
 <p align="center">
-  <sub>Built with focus on clarity, business value, and data-driven decision making.</sub>
+  <sub>Built with focus on clarity, business impact, and data-driven storytelling.</sub>
 </p>
-
-
-
-
