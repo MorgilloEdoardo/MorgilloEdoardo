@@ -229,7 +229,7 @@ Explore my projects, dashboards, and analytics work:
 </p>
 
 <p>
-  <a href="mailto:edoardomorgillo@icloud.com">
+  <a href="mailto:edoardomorgillo00@outlook.it">
     <img src="https://img.shields.io/badge/Email-edoardomorgillo%40icloud.com-111827?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
