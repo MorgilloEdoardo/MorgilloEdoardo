@@ -24,18 +24,16 @@ Transforming Data into Business Decisions
 
 # About Me
 
-I'm a Data Analyst passionate about transforming raw data into meaningful insights that support business growth and strategic decision-making.
+I'm a Data Analyst focused on turning raw data into clear, actionable business insights that support decision-making and drive measurable value.
 
-My work focuses on:
+I work across:
 
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
-- Data Cleaning & Preparation
-- KPI Monitoring
-- Data Storytelling
-
-I enjoy building end-to-end analytics projects that combine technical skills with business understanding to deliver measurable value.
+- Data Analysis  
+- Business Intelligence  
+- Dashboard Development  
+- Data Cleaning & Preparation  
+- KPI Monitoring  
+- Data Storytelling  
 
 ---
 
@@ -43,18 +41,14 @@ I enjoy building end-to-end analytics projects that combine technical skills wit
 
 ## Microsoft Certified: Azure Data Fundamentals (DP-900)
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305B03C0DF05082F?sharingId=A9455AE5C400868F">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  </a>
 </p>
 
-Demonstrated knowledge of:
-
-- Relational and non-relational data
-- Data analytics workloads
-- Data warehousing concepts
-- Azure data services
-- Business Intelligence solutions
-- Cloud-based analytics fundamentals
+**Verify credential:**  
+https://learn.microsoft.com/api/credentials/share/it-it/EdoardoMorgillo-9522/305B03C0DF05082F?sharingId=A9455AE5C400868F
 
 ---
 
@@ -69,149 +63,102 @@ Demonstrated knowledge of:
 
 # Core Competencies
 
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- KPI Tracking
-- Business Reporting
-- Performance Analysis
-- Customer Analytics
-- Data Storytelling
+- Data Analysis  
+- Business Intelligence  
+- Dashboard Development  
+- Data Cleaning  
+- Exploratory Data Analysis  
+- Data Visualization  
+- KPI Tracking  
+- Business Reporting  
+- Customer Analytics  
+- Data Storytelling  
 
 ---
 
 # Featured Projects
 
-## Customer Churn Business Analysis
+## Customer Churn Analysis
 
-Business Intelligence project focused on understanding customer churn behavior and its financial impact.
+- Customer segmentation  
+- Churn driver analysis  
+- Revenue impact evaluation  
+- Power BI dashboard  
 
-### Key Results
-
-- Identified high-risk customer segments
-- Analyzed churn drivers
-- Quantified revenue loss
-- Developed interactive Power BI dashboards
-- Proposed retention opportunities
-
-🔗 Repository:
-https://github.com/MorgilloEdoardo/customer-churn-business-analysis
+🔗 https://github.com/MorgilloEdoardo/customer-churn-business-analysis  
 
 ---
 
-## Instacart Business Intelligence Analysis
+## Instacart BI Analysis
 
-Large-scale e-commerce analytics project designed to uncover customer purchasing behavior and product performance.
+- Customer behavior analysis  
+- Basket analysis  
+- Product performance  
+- Revenue insights  
 
-### Key Results
-
-- Customer retention analysis
-- Basket composition analysis
-- Product demand evaluation
-- Revenue concentration analysis
-- Executive dashboard development
-
-🔗 Repository:
-https://github.com/MorgilloEdoardo/instacart-business-intelligence
+🔗 https://github.com/MorgilloEdoardo/instacart-business-intelligence  
 
 ---
 
 ## Financial Transactions Dashboard
 
-Business Intelligence project focused on revenue, expenses, customer behavior, and operational performance.
+- Revenue analysis  
+- Expense tracking  
+- Profitability insights  
+- KPI dashboard  
 
-### Key Results
-
-- Revenue monitoring
-- Expense analysis
-- Profitability evaluation
-- Customer transaction insights
-- Executive KPI dashboard
-
-🔗 Repository:
-https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence
+🔗 https://github.com/MorgilloEdoardo/financial-transactions-business-intelligence  
 
 ---
 
 ## Movie Analytics Dashboard
 
-Business Intelligence project exploring financial performance within the movie industry.
+- Budget vs revenue analysis  
+- Genre performance  
+- Cast impact  
+- Interactive BI dashboard  
 
-### Key Results
-
-- Revenue distribution analysis
-- Budget vs profitability evaluation
-- Genre performance analysis
-- Cast and director impact assessment
-- Interactive dashboard storytelling
-
-🔗 Repository:
-https://github.com/MorgilloEdoardo/movie-analytics-business-intelligence
+🔗 https://github.com/MorgilloEdoardo/movie-analytics-business-intelligence  
 
 ---
 
 # Tech Stack
 
 ## Languages
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white">
-</p>
+- SQL  
+- Python  
 
 ## Data Analysis
+- Pandas  
+- NumPy  
+- Excel  
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-0B3D2E?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</p>
-
-## Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000">
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
-</p>
+## BI Tools
+- Power BI  
+- Looker Studio  
 
 ## Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+- PostgreSQL  
+- MySQL  
 
 ## Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-</p>
+- Microsoft Azure  
+- Azure Data Fundamentals (DP-900)  
 
 ## Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7">
-</p>
+- Git  
+- GitHub  
+- Netlify  
 
 ---
 
 # Portfolio
 
-### Personal Portfolio Website
-
-Explore my projects, dashboards, and analytics work:
-
 🌐 https://edoardo-data-analyst.netlify.app/
 
 ---
 
-# GitHub Statistics
+# GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MorgilloEdoardo&show_icons=true&theme=transparent&hide_border=true">
@@ -220,7 +167,7 @@ Explore my projects, dashboards, and analytics work:
 
 ---
 
-# Connect With Me
+# Connect
 
 <p>
   <a href="https://www.linkedin.com/in/edoardo-morgillo">
@@ -237,11 +184,8 @@ Explore my projects, dashboards, and analytics work:
 ---
 
 <p align="center">
-  <sub>
-    Built with a passion for analytics, business intelligence, and data-driven decision making.
-  </sub>
+  <sub>Built with focus on clarity, business value, and data-driven decision making.</sub>
 </p>
-
 
 
 
